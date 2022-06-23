@@ -2,7 +2,7 @@
 
 I'm a CS student passionate about building projects with technology and seeing them work in the real-world. I've been programming for more than 8 years and have always loved to see how the seemingly simple logic of programs can bring so many complex ideas to light.
 
-Click the arrow for a preview of each project!
+Click the arrows below for a preview of each project!
 
 ### Project Highlights
 
