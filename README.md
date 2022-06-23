@@ -46,7 +46,7 @@ Click the arrows below for a preview of each project!
 <details>
 	<summary>
     <b>
-    <img style="image-rendering: pixelated;" width="38" src="https://i.imgur.com/G9kVjd4.png"/>
+    <img style="image-rendering: pixelated;" width="38" src="https://user-images.githubusercontent.com/35240934/175382129-482ad244-5739-4485-b9e4-959cbe844422.png"/>
     <a href="https://github.com/PedroMartelleto/ModernCppGame">Pixel Art Arena Game - A multithreaded ECS-based game with a built-in 2D render engine (C++)</a>
     </b>
   </summary>
@@ -59,7 +59,7 @@ Click the arrows below for a preview of each project!
 <details>
 	<summary>
     <b>
-    <img width="42" src="https://img.icons8.com/ios/50/000000/xray.png"/>
+    <img width="42" src="https://user-images.githubusercontent.com/35240934/175382135-295616a9-b96b-4186-9977-c273ce94e309.png"/>
     <a href="https://github.com/JoaoMarcosCSilva/issues-covid-image-diagnosis">ICML Workshop - Detecting and mitigating issues in image-based COVID-19 diagnosis (Python, JAX)</a>
     </b>
   </summary>
