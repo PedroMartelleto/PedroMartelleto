@@ -1,16 +1,83 @@
-### Hi there 👋
+### Hi there 👋, my name is Pedro.
 
-<!--
-**PedroMartelleto/PedroMartelleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student passionate about building projects with technology and seeing them work in the real-world. I've been programming for more than 8 years and have always loved to see how the seemingly simple logic of programs can bring so many complex ideas to light.
 
-Here are some ideas to get you started:
+Click the arrow for a preview of each project!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project Highlights
+
+<details>
+	<summary>
+    <b>
+    <img width="38" src="https://img.icons8.com/external-avoca-kerismaker/64/000000/external-Online-Book-digital-service-avoca-kerismaker.png"/>
+    <a href="https://github.com/PedroMartelleto/Online-Store">Book Store - A fully-featured online store built using the MERN stack (JS, React)</a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175203442-8d1aea3b-f969-4a9b-945e-397a1bbf4d3a.mp4" />
+</p>
+</details>
+
+<details>
+	<summary>
+    <b>
+    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-exam-university-flaticons-flat-flat-icons-3.png"/>
+    <a href="https://www.compilaenem.com">Compila - A platform for building mock exams for ENEM (JS, React)</a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175204675-2eb5fb08-de6a-4e18-9849-df9debc59bbd.mp4" />
+</p>
+</details>
+
+<details>
+	<summary>
+    <b>
+    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-neural-network-the-future-flaticons-flat-flat-icons.png"/>
+    <a href="https://github.com/PedroMartelleto/AIPlayground">AIPlayground - a website to see evolutionary reinforcement learning in action in videogames (Typescript, React)</a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/128615672-2c77c06c-1d38-4093-a495-39a1024a2e58.mp4" />
+</p>
+</details>
+
+
+<details>
+	<summary>
+    <b>
+    <img style="image-rendering: pixelated;" width="38" src="https://i.imgur.com/G9kVjd4.png"/>
+    <a href="https://github.com/PedroMartelleto/ModernCppGame">Pixel Art Arena Game - A multithreaded ECS-based game with a built-in 2D render engine (C++)</a>
+    </b>
+  </summary>
+  <p align="center">
+    <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175192721-d98a1925-aa89-469b-aa42-ffd87ef5b20d.mp4"/>
+  </p>
+</details>
+
+
+<details>
+	<summary>
+    <b>
+    <img width="42" src="https://img.icons8.com/ios/50/000000/xray.png"/>
+    <a href="https://github.com/JoaoMarcosCSilva/issues-covid-image-diagnosis">ICML Workshop - Detecting and mitigating issues in image-based COVID-19 diagnosis (Python, JAX)</a>
+    </b>
+  </summary>
+  <img src="https://i.imgur.com/iYdLaFJ.png"/>
+</details>
+
+<details>
+	<summary>
+    <b>
+    <img src="https://img.icons8.com/color/48/000000/coronavirus--v1.png"/>
+    <a href="https://github.com/PedroMartelleto/covidata">CoviData - A Dashboard about the state of the COVID-19 pandemic in Brazil (Java, JavaFX)</a>
+    </b>
+  </summary>
+  <p align="center">
+    <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/128615158-9dfc24b0-abb2-4f52-9f86-f6b08ae7f731.mp4"/>
+  </p>
+</details>
+
+<h4 align="center">
+  <a href="https://github.com/PedroMartelleto?tab=repositories" title="Show Repositories">See other repos</a>
+</h4>
