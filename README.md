@@ -9,12 +9,12 @@ Click the arrows below for a preview of each project!
 <details>
 	<summary>
     <b>
-    <img width="38" src="https://img.icons8.com/external-avoca-kerismaker/64/000000/external-Online-Book-digital-service-avoca-kerismaker.png"/>
-    <a href="https://github.com/PedroMartelleto/Online-Store">Book Store - A fully-featured online store built using the MERN stack (JS, React)</a>
+    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-neural-network-the-future-flaticons-flat-flat-icons.png"/>
+    <a href="https://github.com/PedroMartelleto/AIPlayground">AIPlayground - a website to see evolutionary reinforcement learning in action in videogames (Typescript, React)</a>
     </b>
   </summary>
   <p>
-  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175203442-8d1aea3b-f969-4a9b-945e-397a1bbf4d3a.mp4" />
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/128615672-2c77c06c-1d38-4093-a495-39a1024a2e58.mp4" />
 </p>
 </details>
 
@@ -27,18 +27,6 @@ Click the arrows below for a preview of each project!
   </summary>
   <p>
   <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175204675-2eb5fb08-de6a-4e18-9849-df9debc59bbd.mp4" />
-</p>
-</details>
-
-<details>
-	<summary>
-    <b>
-    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-neural-network-the-future-flaticons-flat-flat-icons.png"/>
-    <a href="https://github.com/PedroMartelleto/AIPlayground">AIPlayground - a website to see evolutionary reinforcement learning in action in videogames (Typescript, React)</a>
-    </b>
-  </summary>
-  <p>
-  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/128615672-2c77c06c-1d38-4093-a495-39a1024a2e58.mp4" />
 </p>
 </details>
 
@@ -64,6 +52,18 @@ Click the arrows below for a preview of each project!
     </b>
   </summary>
   <img src="https://i.imgur.com/iYdLaFJ.png"/>
+</details>
+
+<details>
+	<summary>
+    <b>
+    <img width="38" src="https://img.icons8.com/external-avoca-kerismaker/64/000000/external-Online-Book-digital-service-avoca-kerismaker.png"/>
+    <a href="https://github.com/PedroMartelleto/Online-Store">Book Store - A fully-featured online store built using the MERN stack (JS, React)</a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175203442-8d1aea3b-f969-4a9b-945e-397a1bbf4d3a.mp4" />
+</p>
 </details>
 
 <details>
