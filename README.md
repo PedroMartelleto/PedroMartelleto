@@ -22,7 +22,7 @@ Click the arrows below for a preview of each project!
 	<summary>
     <b>
     <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-exam-university-flaticons-flat-flat-icons-3.png"/>
-    <a href="https://www.compilaenem.com">Compila - A platform for building mock exams for ENEM (JS, React)</a>
+    Compila - A platform for building mock exams for ENEM (JS, React)
     </b>
   </summary>
   <p>
