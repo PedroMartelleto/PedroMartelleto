@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Pedro.
+### Hello 👋, my name is Pedro.
 
-I'm a CS student passionate about building projects with technology and seeing them work in the real-world. I've been programming for more than 8 years and have always loved to see how the seemingly simple logic of programs can bring so many complex ideas to light.
+I'm a CS student passionate about building projects with technology and seeing them work in the real world. Since I was little, programming has fascinated me. Coding feels like giving freedom to logic and building something meaningful at the same time. My areas of interest span everything from lower-level code (C, C++) to visuals (frontend and computer graphics), apps (swift, web), as well as machine learning & data science.
 
 Click the arrows below for a preview of each project!
 
