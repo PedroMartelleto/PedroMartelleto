@@ -21,6 +21,32 @@ Click the arrows below for a preview of each project!
 <details>
 	<summary>
     <b>
+    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-exam-university-flaticons-flat-flat-icons-3.png"/>
+    <a href=https://compila-e88be.web.app">
+    Compila - A platform for building mock exams for ENEM (JS, React)
+    </a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175204675-2eb5fb08-de6a-4e18-9849-df9debc59bbd.mp4" />
+</p>
+</details>
+
+<details>
+	<summary>
+    <b>
+    <img width="38" src="https://img.icons8.com/external-avoca-kerismaker/64/000000/external-Online-Book-digital-service-avoca-kerismaker.png"/>
+    <a href="https://github.com/PedroMartelleto/Online-Store">Book Store - A fully-featured online store built using the MERN stack (JS, React)</a>
+    </b>
+  </summary>
+  <p>
+  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175203442-8d1aea3b-f969-4a9b-945e-397a1bbf4d3a.mp4" />
+</p>
+</details>
+
+<details>
+	<summary>
+    <b>
     <img style="image-rendering: pixelated;" width="38" src="https://user-images.githubusercontent.com/35240934/175382129-482ad244-5739-4485-b9e4-959cbe844422.png"/>
     <a href="https://github.com/PedroMartelleto/ModernCppGame">Pixel Art Arena Game - A multithreaded ECS-based game with a built-in 2D render engine (C++)</a>
     </b>
@@ -39,30 +65,6 @@ Click the arrows below for a preview of each project!
     </b>
   </summary>
   <img src="https://i.imgur.com/iYdLaFJ.png"/>
-</details>
-
-<details>
-	<summary>
-    <b>
-    <img width="38" src="https://img.icons8.com/external-avoca-kerismaker/64/000000/external-Online-Book-digital-service-avoca-kerismaker.png"/>
-    <a href="https://github.com/PedroMartelleto/Online-Store">Book Store - A fully-featured online store built using the MERN stack (JS, React)</a>
-    </b>
-  </summary>
-  <p>
-  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175203442-8d1aea3b-f969-4a9b-945e-397a1bbf4d3a.mp4" />
-</p>
-</details>
-
-<details>
-	<summary>
-    <b>
-    <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-exam-university-flaticons-flat-flat-icons-3.png"/>
-    Compila - A platform for building mock exams for ENEM (JS, React)
-    </b>
-  </summary>
-  <p>
-  <video autoplay="true" controls="false" src="https://user-images.githubusercontent.com/35240934/175204675-2eb5fb08-de6a-4e18-9849-df9debc59bbd.mp4" />
-</p>
 </details>
 
 <details>
