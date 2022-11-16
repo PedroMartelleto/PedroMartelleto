@@ -1,6 +1,8 @@
 ### Hello 👋, my name is Pedro.
 
-I'm a CS student passionate about building projects with technology and seeing them work in the real world. Since I was little, I've loved to code - it feels like giving creative space to logic while constructing something meaningful. My areas of interest span everything from visuals (frontend and computer graphics), to apps (web, iOS), machine learning & data science, as well as lower-level code & algorithms (C, C++).
+I'm a CS student passionate about building projects with technology and seeing them work in the real world. Since I was little, I've loved to code - it feels like a very unique (and flavourful) mix of giving creative space to logic while constructing something meaningful.
+
+My areas of interest span everything from visuals (frontend and computer graphics), to apps (web, iOS), machine learning & data science, as well as lower-level code & algorithms (C, C++).
 
 Click the arrows below for a preview of each project!
 
