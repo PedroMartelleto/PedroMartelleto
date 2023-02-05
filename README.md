@@ -1,5 +1,7 @@
 ### Hello 👋, my name is Pedro.
 
+I'm a CS student, currently living in Germany. Since I was little, I've loved to code - it feels like a very unique mix of giving creative space to logic while constructing something meaningful. My areas of interest span everything from visuals (frontend and computer graphics), to apps (web, iOS), machine learning & data science, as well as lower-level code & algorithms (C, C++).
+
 Click the arrows below for a preview of each project!
 
 ### Project Highlights
