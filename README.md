@@ -48,7 +48,7 @@ Click the arrows below for a preview of each project!
 	<summary>
     <b>
     <img style="image-rendering: pixelated;" width="38" src="https://user-images.githubusercontent.com/35240934/175382129-482ad244-5739-4485-b9e4-959cbe844422.png"/>
-    <a href="https://github.com/PedroMartelleto/ModernCppGame">Pixel Art Arena Game - A multithreaded ECS-based game with a built-in 2D render engine (C++)</a>
+    <a href="https://github.com/PedroMartelleto/ModernCppGame">C++ Game - A multithreaded ECS-based game with a built-in 2D render engine (C++)</a>
     </b>
   </summary>
   <p align="center">
