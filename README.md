@@ -23,7 +23,7 @@ Click the arrows below for a preview of each project!
     <b>
     <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-exam-university-flaticons-flat-flat-icons-3.png"/>
     <a href="https://compila-e88be.web.app">
-    Compila - A platform for building mock exams for ENEM (JS, React)
+    Compila - A platform for building mock exams for Brazil's University Entrance Exam (ENEM) (JS, React)
     </a>
     </b>
   </summary>
