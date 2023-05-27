@@ -10,7 +10,7 @@ Click the arrows below for a preview of each project!
 	<summary>
     <b>
     <img width="42" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-neural-network-the-future-flaticons-flat-flat-icons.png"/>
-    <a href="https://github.com/PedroMartelleto/AIPlayground">AIPlayground - a website to see evolutionary reinforcement learning in action in videogames (Typescript, React)</a>
+    <a href="https://github.com/PedroMartelleto/AIPlayground">AIPlayground - a website to see neuroevolution in action in videogames (Typescript, React)</a>
     </b>
   </summary>
   <p>
